@@ -1,5 +1,4 @@
 # Lab2
-Labs on Computer System and Network(CSaN)
 
 ### Task:
  To develop a application that measures the speed of information transmission via TCP and UDP protocols, as well as the number of lost (distorted) packets. Traffic is generated pseudorandomly (i.e. a pseudorandom data sequence is generated, sent to another computer and there compared with a reference.
